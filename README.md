@@ -1,5 +1,5 @@
 # Walls
-A great collection of wallpapers of different variety that i like and use some of them as my daily wallpapers.Most of it Works great with Catppuccin Glass them for Yasb.
+A great collection of wallpapers of different variety that i like and use some of them as my daily wallpapers.Most of them Work great with Catppuccin Glass theme for Yasb.
 
 Checkout the yasb theme by me [Catppuccin Glass](https://github.com/PraBuDDha1x1/Catppucin-Glass )
 
@@ -20,5 +20,7 @@ Checkout the yasb theme by me [Catppuccin Glass](https://github.com/PraBuDDha1x1
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/86bd2504-bada-4065-a009-ecb43ac29b85" />
 <br><br>
 
+**If you liked or downloaded these wallpapers dont forget to star this repo because i will be adding new cool wallpapers whenever i find one or something**
 
+**Thank you and Hab  a cookie 🍪**
 
